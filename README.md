@@ -93,6 +93,6 @@ This repository is part of my learning journey in:
 
 # Connect With Me
 
-LinkedIn: [Add LinkedIn Profile Link]
+LinkedIn:https://www.linkedin.com/in/sainiharleen/
 
 ---
